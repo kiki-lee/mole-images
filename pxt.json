@@ -3,8 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "simple-blocks": "github:microsoft/arcade-tutorial-extensions/simple-blocks",
-        "carnival": "github:microsoft/arcade-carnival"
+        "simple-blocks": "github:microsoft/arcade-tutorial-extensions/simple-blocks#v0.0.7"
     },
     "files": [
         "main.blocks",
@@ -12,8 +11,7 @@
         "README.md",
         "assets.json",
         "images.g.jres",
-        "images.g.ts",
-        "tutorial.custom.ts"
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -25,5 +23,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
