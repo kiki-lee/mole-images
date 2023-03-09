@@ -11,11 +11,11 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "images.g.jres",
-        "images.g.ts"
+        "images.g.jres"
     ],
     "testFiles": [
-        "test.ts"
+        "test.ts",
+        "images.g.ts"
     ],
     "targetVersions": {
         "target": "1.12.17",
